@@ -71,7 +71,7 @@ Browser support is tested in Sauce Labs:
 
 #### Multiplexing support
 
-In order to create separation of concerns within your application (for example per module, or based on permissions), Socket.IO allows you to create several `Namespaces`, which will act as separate communication channels but will share the same underlying connection.
+In order to create a separation of concerns within your application (for example: per module, or based on permissions), Socket.IO  also allows you to create several `Namespaces`, which will act as separate communication channels but will share the same underlying connection.
 
 #### Room support
 
